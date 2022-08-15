@@ -1,5 +1,5 @@
 function cd_upwards_search --description 'Switches to the lowest directory which is upwards of current directory and matches the argument' --argument s
-	if test (count $argv) = 0
+    if test (count $argv) = 0
         echo "No arguments passed, do nothing."
         return 1
     end
