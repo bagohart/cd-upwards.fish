@@ -28,5 +28,6 @@ alias up 'cd_upwards_search'
 This isn't a new idea. Here are two older plugins that basically do the same job:
 1. https://github.com/markcial/upto
 2. https://github.com/ianatha/up
+
 (1) has the same features, but a more complicated implementation.
 (2) has more features (which I don't use), but introduces Python as a dependency.
