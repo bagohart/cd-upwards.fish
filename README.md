@@ -31,3 +31,6 @@ This isn't a new idea. Here are two older plugins that basically do the same job
 
 (1) has the same features, but a more complicated implementation.
 (2) has more features (which I don't use), but introduces Python as a dependency.
+
+## Related
+If you want to cd down instead of up, check out [cd-deep-broot.fish](https://github.com/bagohart/cd-deep-broot.fish).
